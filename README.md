@@ -14,10 +14,10 @@ Olá! Eu sou Josias Fernandes, um entusiasta da programação e infraestrutura d
 ## Projetos Destacados
 
 ### Projeto 1 - Desenvolvimento Web com Django
-Descrição breve do projeto em que você trabalhou com o framework Django. Pode incluir suas responsabilidades, tecnologias usadas e resultados alcançados.
+Projeto de desenvolvimento de uma intranet contendo: blog, helpdesk e outras funcionalidades pertinentes para empresa.
 
 ### Projeto 2 - APIs com FASTAPI
-Detalhes sobre um projeto específico em que você utilizou o framework FASTAPI para construir APIs eficientes e rápidas. Explique o escopo do projeto e suas realizações.
+Projeto de implementaçãod e uma api, retirada de dados do banco do sistema e envio para outra api para criação de controle financeiro.
 
 ## Contato
 
